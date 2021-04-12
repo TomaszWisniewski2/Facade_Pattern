@@ -8,7 +8,7 @@ namespace Facade_Pattern
         {
             AnimalFacade facade = new AnimalFacade();
 
-            facade.CreateCompleteCar();
+            facade.CreateCompleteAnimal();
             Console.ReadKey();
 
         }
