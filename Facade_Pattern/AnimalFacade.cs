@@ -28,7 +28,7 @@ namespace Facade_Pattern
            // accessories = new CarAccessories();
         }
 
-        public void CreateCompleteCar()
+        public void CreateCompleteAnimal()
         {
             Console.WriteLine("******** Creating an Animal **********\n");
             model.SetAge();
